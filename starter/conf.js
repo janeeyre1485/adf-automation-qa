@@ -38,6 +38,8 @@ exports.config = {
       }
   },
 
+  SELENIUM_PROMISE_MANAGER: false,
+
   jasmineNodeOpts: {
       showColors: true,
       displaySpecDuration: true,
